@@ -39,3 +39,13 @@ Hardware Requirements
 
     Plastic foam tires are great for this project and they are lightweight, hard and have a good greep. Relatively less costy.
     The actuator to drive the rover is plastic agearbox. It has a 6V DC motor inside and produce a fair amount of speed with a high torque strong enough to drive the rover with up to 15kg amount of payload. (I Iet my 15kg son drive on it). In the future I will do some other scientific tests.
+
+Algorithm
+
+    obstacle avoidance
+
+    Drive forward until obstacle is detected. If Obstacle is detected then stop for few seconds then move backwards for few        centimeters. Then move again try if still there is the obstacle. If the obstacle is there move backwards and turn right        for some degrees to avoid the obstacle and continue straight forward.
+
+Demonstration
+    
+    https://youtu.be/E3wDgulsSTU?si=qFQs4_kfr9r9EPV2
