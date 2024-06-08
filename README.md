@@ -12,9 +12,9 @@ WELCOME to the first series part1: building the obstacle avoidance system.
 
 Objectives
 
-    Autonomous Navigation: Enable the rover to move around a room without human intervention, avoiding obstacles. (Part1 series)
-    Voice Control: Incorporate voice recognition to control the rover’s movements.(Part2 series)
-    Real-Time Feedback: Implement sensors for real-time data collection and response.(Part3 series)
+    Autonomous Navigation: Enable the rover to move around a room without human intervention, avoiding obstacles.
+    Voice Control: Incorporate voice recognition to control the rover’s movements.
+    Real-Time Feedback: Implement sensors for real-time data collection and response.
 
 Components Required
 
@@ -32,13 +32,13 @@ Components Required
 
 Software Requirements
 
-    Operating System: Linux or windows Arduino IDE installed ( I recommend working on Linux (Ubuntu) for future navigation and SLAM development system to use ROS2 or micro ROS)
+    Operating System: Linux or windows Arduino IDE installed ( I recommend working on Linux (Ubuntu) for future navigation and     SLAM development system to use ROS2 or micro ROS)
     Programming Language: C++
 
-Hardware Requirements
+Main drive Hardware Requirements
 
     Plastic foam tires are great for this project and they are lightweight, hard and have a good greep. Relatively less costy.
-    The actuator to drive the rover is plastic agearbox. It has a 6V DC motor inside and produce a fair amount of speed with a high torque strong enough to drive the rover with up to 15kg amount of payload. (I Iet my 15kg son drive on it). In the future I will do some other scientific tests.
+    The actuator to drive the rover is plastic agearbox. It has a 6V DC motor inside and produce a fair amount of speed with a   high torque strong enough to drive the rover with up to 15kg amount of payload. (I Iet my 15kg son drive on it). In the        future I will do some other scientific tests.
 
 Algorithm
 
