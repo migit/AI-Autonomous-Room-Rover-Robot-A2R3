@@ -4,7 +4,7 @@ Introduction
 
 In an era where artificial intelligence (AI) and robotics are transforming our daily lives, creating an AI-powered autonomous room rover is an exciting project for any tech enthusiast. I have always wondered how it feels like to build this idea from the ground up alone with limited resources i have available. This rover bot is designed to navigate a room autonomously, avoiding obstacles and responding to voice commands.
 
-Imagine having a companion rover bot who actually knows you by name and serves you tirelessly (well while 🔋 is full :) ). I am designing A2R3 as an open cost effective diy robotic platform for all who want to customize their own rover bot.
+Imagine having a companion rover bot who actually knows you by name and serves you tirelessly (well while 🔋 is full :) ). I am designing A2R3 as an open source cost effective diy robotic platform for all who want to customize their own rover bot.
 
 This project will guide you through the process of building your own intelligent rover using readily available components and open-source software step by step. I divided this project in three parts for simplicity.
 
