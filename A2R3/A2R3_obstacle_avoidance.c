@@ -1,5 +1,4 @@
 #include <Arduino.h>
-#include "BluetoothSerial.h"
 #include <TB6612_ESP32.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
