@@ -99,7 +99,6 @@ void setup() {
     }
     BEEPinfo();
     speed = VLOW_SPEED;
-    notify_device_ready();
 }
 
 void moveForward(int speed) {
