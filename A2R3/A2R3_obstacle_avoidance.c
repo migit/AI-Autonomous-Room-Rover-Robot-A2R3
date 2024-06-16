@@ -25,31 +25,26 @@
 #define PWMB 25 // ESP32 Pin D25 to TB6612FNG Pin PWMB
 #define STBY 32 // ESP32 Pin D32 to TB6612FNG Pin STBY
 #define BUZZER_PIN 15
-#define ONBOARD_LED_PIN 2
+
 
 #define HIGH_SPEED 255
 #define LOW_SPEED 125
 #define VLOW_SPEED 100
 
 
-
 // Define the distance threshold (in mm)
 const int distanceThreshold = 600; // 0.6 meters = 600 mm
 const int offsetA = 1;
 const int offsetB = 1;
+
 int frame = 0;
 int speed = 255;
-
-enum Mode { AUTONOMOUS, REMOTE_CONTROL };
-Mode currentMode = REMOTE_CONTROL;
 
 Motor motorLeft = Motor(AIN1, AIN2, PWMA, offsetA, STBY, 20000, 8, 3);
 Motor motorRight = Motor(BIN1, BIN2, PWMB, offsetB, STBY, 20000, 8, 4);
 
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
-BluetoothSerial SerialBT;
 VL53L0X sensor;
-
 
 void BEEPOnce() {
     tone(BUZZER_PIN, 1175, 50);
@@ -82,33 +77,6 @@ void OLED_Status(String text, int size = 1, int x = 0, int y = 0) {
     delay(FRAME_DELAY);
 }
 
-void notify_device_ready() {
-    display.clearDisplay();
-    display.setTextSize(2);
-    display.setTextColor(WHITE);
-    display.setCursor(FRAME_WIDTH + 4, 16);
-    display.println("Ready!");
-    display.setTextWrap(true);
-    display.drawBitmap(2,2, ready_icon[frame], FRAME_WIDTH, FRAME_HEIGHT, 1);
-    frame = (frame + 1) % (sizeof(ready_icon) / sizeof(ready_icon[0])); 
-    display.display();
-    delay(FRAME_DELAY);
-}
-
-void notify_device_connect() {
-    display.clearDisplay();
-    display.setTextSize(2);
-    display.setTextColor(WHITE);
-    display.setCursor(FRAME_WIDTH , 16);
-    display.println("Paired!");
-    display.setTextWrap(true);
-    display.drawBitmap(2,2, connected_icon[frame], FRAME_WIDTH, FRAME_HEIGHT, 1);
-    frame = (frame + 1) % (sizeof(connected_icon) / sizeof(connected_icon[0]));
-    display.display();
-    delay(FRAME_DELAY);
-}
-
-
 void setup() {
     Serial.begin(115200);
     Wire.begin(21, 22);
@@ -124,8 +92,6 @@ void setup() {
   sensor.setTimeout(500);
   sensor.setMeasurementTimingBudget(200000); // increase timing budget to 200 ms for more accuracy
 
-    pinMode(ONBOARD_LED_PIN, OUTPUT); 
-    SerialBT.begin(BOT_BLUETOOTH_NAME); // Bluetooth device name
     if (!display.begin(SSD1306_SWITCHCAPVCC, 0x3C)) {
         Serial.println(F("SSD1306 allocation failed"));
         for (;;)
@@ -187,10 +153,6 @@ void autonomous(unsigned int distance,int speed) {
   }
   delay (50);
 }
-
-char message = ' ';
-bool connected = false;
-bool first_time = true;
 unsigned int measurement;
 
 void loop() {
