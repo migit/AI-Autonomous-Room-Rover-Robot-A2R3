@@ -35,6 +35,5 @@ Algorithm
     Drive forward until obstacle is detected. If Obstacle is detected then stop for few seconds then move backwards for few        centimeters. Then move again try if still there is the obstacle. If the obstacle is there move backwards and turn right        for some degrees to avoid the obstacle and continue straight forward.
 
 Demonstration
-    
     <a href="https://youtu.be/E3wDgulsSTU?si=qFQs4_kfr9r9EPV2" target="_blank">Part 1</a>
     <a href="https://youtu.be/E3wDgulsSTU?si=qFQs4_kfr9r9EPV2" target="_blank">Part 1</a>
