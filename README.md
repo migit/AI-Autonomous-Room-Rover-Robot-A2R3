@@ -8,8 +8,6 @@ Imagine having a companion rover bot who actually knows you by name and serves y
 
 This project will guide you through the process of building your own intelligent rover using readily available components and open-source software step by step. I divided this project in three parts for simplicity. You can also find the whole project decscription in my <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">hackster</a> page.
 
-WELCOME to the first series part1: building the obstacle avoidance system.
-
 Objectives
 
     Autonomous Navigation: Enable the rover to move around a room without human intervention, avoiding obstacles.
@@ -19,21 +17,17 @@ Objectives
 Software Requirements
 
     Operating System: Linux or windows Arduino IDE installed ( I recommend working on Linux (Ubuntu) for future navigation and SLAM development system to use 
-    ROS2 or micro ROS)
+    ROS2 or micro ROS) However the bot drives by itself with built-in obstacle avoidance alogorithim at first. 
     Programming Language: C++
+<a href="https://youtu.be/E3wDgulsSTU" target="_blank">Obstacle avoidance system demo</a>
 
 Main drive Hardware Requirements
 
     Plastic foam tires are great for this project and they are lightweight, hard and have a good grip. Relatively less costy.
-    The actuator to drive the rover is plastic agearbox. It has a 6V DC motor inside and produce a fair amount of speed with a   high torque strong enough to d 
-    drive the rover with up to 15kg amount of payload. (I Iet my 15kg son drive on it). In the        future I will do some other scientific tests.
+    The actuator to drive the rover is plastic agearbox RS390. It drives with a 6V DC motor inside and produce a fair amount of speed with a good torque strong enough to drive the rover with up to 15kg amount of payload. In the future I will do some other scientific tests on this...
+<a href="https://youtu.be/83nP3b_AAgo" target="_blank">Body Build demo</a>
 
-Algorithm
 
-    obstacle avoidance
-
-    Drive forward until obstacle is detected. If Obstacle is detected then stop for few seconds then move backwards for few        centimeters. Then move again try if still there is the obstacle. If the obstacle is there move backwards and turn right        for some degrees to avoid the obstacle and continue straight forward.
-
-Demonstration
+Demonstration                                                                                                                                                        
     <a href="https://youtu.be/E3wDgulsSTU?si=qFQs4_kfr9r9EPV2" target="_blank">Part 1</a>
-    <a href="[https://youtu.be/E3wDgulsSTU?si=qFQs4_kfr9r9EPV2](https://www.youtube.com/watch?v=NbiJPMn4Qm0)" target="_blank">Part 1</a>
+    <a href="https://www.youtube.com/watch?v=NbiJPMn4Qm0" target="_blank">Part 2</a>
