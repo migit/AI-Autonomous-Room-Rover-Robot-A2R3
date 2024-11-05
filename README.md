@@ -36,4 +36,4 @@ Algorithm
 
 Demonstration
     <a href="https://youtu.be/E3wDgulsSTU?si=qFQs4_kfr9r9EPV2" target="_blank">Part 1</a>
-    <a href="https://youtu.be/E3wDgulsSTU?si=qFQs4_kfr9r9EPV2" target="_blank">Part 1</a>
+    <a href="[https://youtu.be/E3wDgulsSTU?si=qFQs4_kfr9r9EPV2](https://www.youtube.com/watch?v=NbiJPMn4Qm0)" target="_blank">Part 1</a>
