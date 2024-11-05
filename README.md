@@ -16,29 +16,17 @@ Objectives
     Voice Control: Incorporate voice recognition to control the rover’s movements.
     Real-Time Feedback: Implement sensors for real-time data collection and response.
 
-Components Required
-
-    Microcontroller: ESP32
-    Motor Driver: TB6612FNG Dual H-Bridge Motor Driver
-    Motors: 2 DC 6V geared Motors with wheels
-    Circuit board : To solder every component
-    OLED 128x32 display : To display status of the navigation and other information
-    Buzzer : To sound "beep" on status display with the OLED display
-    Mini Cooling fan : To cool off the VL53LOX motor driver
-    Chassis: simple plasic chassis
-    Sensors: VL53LOX time of flight sensor
-    Power Supply: Battery pack 7.8 V Lithiuim ion and 5V power bank to power the ESP3
-    Miscellaneous: Jumper wires, prototype pcb boards, and mounting hardware
-
 Software Requirements
 
-    Operating System: Linux or windows Arduino IDE installed ( I recommend working on Linux (Ubuntu) for future navigation and     SLAM development system to use ROS2 or micro ROS)
+    Operating System: Linux or windows Arduino IDE installed ( I recommend working on Linux (Ubuntu) for future navigation and SLAM development system to use 
+    ROS2 or micro ROS)
     Programming Language: C++
 
 Main drive Hardware Requirements
 
-    Plastic foam tires are great for this project and they are lightweight, hard and have a good greep. Relatively less costy.
-    The actuator to drive the rover is plastic agearbox. It has a 6V DC motor inside and produce a fair amount of speed with a   high torque strong enough to drive the rover with up to 15kg amount of payload. (I Iet my 15kg son drive on it). In the        future I will do some other scientific tests.
+    Plastic foam tires are great for this project and they are lightweight, hard and have a good grip. Relatively less costy.
+    The actuator to drive the rover is plastic agearbox. It has a 6V DC motor inside and produce a fair amount of speed with a   high torque strong enough to d 
+    drive the rover with up to 15kg amount of payload. (I Iet my 15kg son drive on it). In the        future I will do some other scientific tests.
 
 Algorithm
 
@@ -48,4 +36,5 @@ Algorithm
 
 Demonstration
     
-    https://youtu.be/E3wDgulsSTU?si=qFQs4_kfr9r9EPV2
+    <a href="https://youtu.be/E3wDgulsSTU?si=qFQs4_kfr9r9EPV2" target="_blank">Part 1</a>
+    <a href="https://youtu.be/E3wDgulsSTU?si=qFQs4_kfr9r9EPV2" target="_blank">Part 1</a>
