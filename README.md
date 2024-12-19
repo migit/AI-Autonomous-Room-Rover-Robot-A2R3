@@ -24,7 +24,7 @@ Software Requirements
     Programming Language: C++
 Obstacle avoidance system demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NbiJPMn4Qm0?si=P2ejN65H3hdH8r4K&amp;controls=0&amp;start=107" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/NbiJPMn4Qm0/maxresdefault.jpg)](https://youtu.be/NbiJPMn4Qm0?si=QGYEltaEz_qwInCY&t=107)
 
 Main drive Hardware Requirements
 
