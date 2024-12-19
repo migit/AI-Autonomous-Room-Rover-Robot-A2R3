@@ -20,7 +20,7 @@ Objectives
 Software Requirements
 
     Operating System: Linux or windows Arduino IDE installed ( I recommend working on Linux (Ubuntu) for future navigation and SLAM development system to use 
-    ROS2 or micro ROS) However the bot drives by itself with built-in obstacle avoidance alogorithim at first. 
+    ROS2 or micro ROS) However the bot drives by itself with built-in obstacle avoidance alogorithim through its slave microcontoller that is ESP32. 
     Programming Language: C++
 Obstacle avoidance system demo
 
