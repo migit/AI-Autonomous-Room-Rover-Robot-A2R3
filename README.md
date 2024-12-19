@@ -30,6 +30,8 @@ Main drive Hardware Requirements
 
     Plastic foam tires are great for this project and they are lightweight, hard and have a good grip. Relatively less costy.
     The actuator to drive the rover is plastic agearbox RS390. It drives with a 6V DC motor inside and produce a fair amount of speed with a good torque strong enough to drive the rover with up to 15kg amount of payload. In the future I will do some other scientific tests on this...
+    ![Screenshot_20241219_134329](https://github.com/user-attachments/assets/13497e88-f66b-438f-93a4-5240f2e5cabc)
+
 <a href="https://youtu.be/83nP3b_AAgo" target="_blank">Body Build demo</a>
 
 
