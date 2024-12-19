@@ -8,7 +8,7 @@ Imagine having a companion rover bot who actually knows you by name and serves y
 
 This project will guide you through the process of building your own intelligent rover using readily available components and open-source software step by step. I divided this project in three parts for simplicity. You can also find the whole project decscription in my <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">hackster</a> page.
 
-![Screenshot_20241219_122653](https://github.com/user-attachments/assets/e09b740e-f94f-4cac-8b4f-0760a9db0ae8)
+![3D CAD design](https://github.com/user-attachments/assets/e09b740e-f94f-4cac-8b4f-0760a9db0ae8)
 
 
 Objectives
@@ -31,7 +31,8 @@ Main drive Hardware Requirements
     Plastic foam tires are great for this project and they are lightweight, hard and have a good grip. Relatively less costy.
     The actuator to drive the rover is plastic agearbox RS390. It drives with a 6V DC motor inside and produce a fair amount of speed with a good torque strong enough to drive the rover with up to 15kg amount of payload. In the future I will do some other scientific tests on this...
     
-![Screenshot_20241219_134329](https://github.com/user-attachments/assets/13497e88-f66b-438f-93a4-5240f2e5cabc)
+![hardware and parts](https://github.com/user-attachments/assets/13497e88-f66b-438f-93a4-5240f2e5cabc)
+
 <a href="https://youtu.be/83nP3b_AAgo" target="_blank">Body Build demo</a>
 
 
