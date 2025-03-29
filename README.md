@@ -41,4 +41,5 @@ Demonstration
 
 ![oshw_facts](https://github.com/user-attachments/assets/8db5b921-7199-43b5-9edd-f96adf9e9eec)
 
-![certification-mark-FI000003-stacked](https://github.com/user-attachments/assets/824e5b40-422f-49f9-95e1-d92d45da75b0)
+
+![certification-mark-FI000003-wide](https://github.com/user-attachments/assets/9b97acd2-7789-40f4-9523-363fbe388f1e)
