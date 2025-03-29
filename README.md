@@ -40,6 +40,6 @@ Demonstration
     <a href="https://www.youtube.com/watch?v=NbiJPMn4Qm0" target="_blank">PID control build Demo</a> <br/>
 
 ![oshw_facts](https://github.com/user-attachments/assets/8db5b921-7199-43b5-9edd-f96adf9e9eec)
-
-
+This open source project has been officially certified as open source hardware by the Open Source Hardware Association
+under the project listing: https://certification.oshwa.org/fi000003.html
 ![certification-mark-FI000003-wide](https://github.com/user-attachments/assets/9b97acd2-7789-40f4-9523-363fbe388f1e)
