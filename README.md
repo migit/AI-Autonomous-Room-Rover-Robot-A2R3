@@ -6,9 +6,8 @@ Imagine having a companion rover bot who actually knows you by name and serves y
 
 This project will guide you through the process of building your own intelligent rover using readily available components and open-source software step by step. I divided this project in three parts for simplicity. You can also find the whole project decscription in my <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">hackster</a> page.
 
-![Screenshot from 2025-03-30 13-21-11](https://github.com/user-attachments/assets/e7f79313-1999-43f9-96f3-af0e6ab57a57)
 
-![Screenshot from 2025-03-30 13-24-28](https://github.com/user-attachments/assets/b3ad701e-e75d-48bc-a623-5f918059ad3b)
+![Screencastfrom2025-03-3017-27-41-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/8a9e77fa-fe6e-483a-9e23-bbd36fbe75f4)
 
 
 Objectives
