@@ -10,7 +10,7 @@ I have divided this project in three parts for simplicity. You can also find the
 
 ![Screencastfrom2025-03-3017-27-41-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/8a9e77fa-fe6e-483a-9e23-bbd36fbe75f4)
 
-Step1
+Firmware
 
     git clone https://github.com/migit/AI-Autonomous-Room-Rover-Robot-A2R3.git
 
