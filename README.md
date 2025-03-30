@@ -9,12 +9,14 @@ Imagine having a companion rover bot who actually knows you by name and serves y
 This project will guide you through the process of building your own intelligent rover using readily available components and open-source software step by step. I divided this project in three parts for simplicity. You can also find the whole project decscription in my <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">hackster</a> page.
 
 ![3D CAD design](https://github.com/user-attachments/assets/e09b740e-f94f-4cac-8b4f-0760a9db0ae8)
+![Screenshot from 2025-03-30 13-17-48](https://github.com/user-attachments/assets/4ee1b69b-6227-4713-8048-b6f405b76334)
 
 
 Objectives
 
     Autonomous Navigation: Enable the rover to move around a room without human intervention, avoiding obstacles.
-    Voice Control: Incorporate voice recognition to control the rover’s movements.
+    Voice Control: Incorporate voice recognition to control the rover’s movements.![Screenshot from 2025-03-30 13-17-48](https://github.com/user-attachments/assets/8a4b4a74-97f4-43c7-b711-db44b8575d1e)
+
     Real-Time Feedback: Implement sensors for real-time data collection and response.
 
 Software Requirements
