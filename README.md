@@ -12,7 +12,7 @@ I have divided this project in three parts for simplicity. You can also find the
 
 Step1
 
-    git clone this repo
+    [git clone this repo](https://github.com/migit/AI-Autonomous-Room-Rover-Robot-A2R3.git)
 
 Software Requirements
 
