@@ -30,7 +30,6 @@ Hardware Requirements - Main drive
     
 ![hardware and parts](https://github.com/user-attachments/assets/13497e88-f66b-438f-93a4-5240f2e5cabc)
 
-<a href="https://youtu.be/83nP3b_AAgo" target="_blank">Body Build demo</a>
 
 Demonstration                                                                                                                                                        
     <a href="https://youtu.be/E3wDgulsSTU?si=qFQs4_kfr9r9EPV2" target="_blank">Obstacle avoidance system demo</a> <br/>
