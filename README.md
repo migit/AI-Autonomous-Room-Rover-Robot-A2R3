@@ -42,4 +42,5 @@ Demonstration
 ![oshw_facts](https://github.com/user-attachments/assets/8db5b921-7199-43b5-9edd-f96adf9e9eec)
 This open source project has been officially certified as open source hardware by the Open Source Hardware Association
 under the project listing: https://certification.oshwa.org/fi000003.html
-![certification-mark-FI000003-wide](https://github.com/user-attachments/assets/9b97acd2-7789-40f4-9523-363fbe388f1e)
+
+![Screenshot from 2025-03-30 15-58-53](https://github.com/user-attachments/assets/599f7daa-bc83-4e1d-ba89-f66ca4a2cc97)
