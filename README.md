@@ -14,7 +14,7 @@ Firmware
 
     git clone https://github.com/migit/AI-Autonomous-Room-Rover-Robot-A2R3.git
 
-Software Requirements
+Software Dev environments:
 > [!TIP]
 > I recommend Operating System: Linux or windows Arduino compatibe IDE installed ( I recommend working on Linux (Ubuntu) for future navigation and SLAM development system.
 > ROS2 or micro ROS for NAV2 development although he robot drives by itself with built-in obstacle avoidance alogorithim through its ESP32 slave microcontoller.
@@ -23,7 +23,7 @@ Software Requirements
 Hardware Requirements - Main drive
 
     Plastic foam tires are great for this project and they are lightweight, hard and have a good grip. Relatively less costy.
-    The actuator to drive the rover is plastic agearbox RS390. It drives with a 6V DC motor inside and produce a fair amount of speed with a good torque strong enough to drive the rover with up to 15kg amount of payload. In the future I will do some other scientific tests on this...Anyways; I have the first build (firmware and hardware) that you can find in my hackster page link down below.
+    The actuator to drive the rover is plastic agearbox RS390. It drives with a 6V DC motor inside and produce a fair amount of speed with a good torque strong enough to drive the rover with up to 15kg amount of payload. In the future I will do some other scientific tests on this...Anyways; I have the first build (firmware and hardware) that you can find the BOM in my hackster page link down below.
     
 ![hardware and parts](https://github.com/user-attachments/assets/13497e88-f66b-438f-93a4-5240f2e5cabc)
 
