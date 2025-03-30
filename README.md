@@ -7,31 +7,6 @@ I am designing A2R3 as an open source cost effective diy mobile robotic platform
 This project will guide you through the process of building your own intelligent mobile robot using readily available components, very low cost modules, and open-source softwares.
 I have divided this project in three parts for simplicity. You can also find the whole project decscription in my <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">hackster</a> page.
 
-# Example headings
-
-## Sample Section
-
-## This'll be a _Helpful_ Section About the Greek Letter Θ!
-A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
-
-## This heading is not unique in the file
-
-TEXT 1
-
-## This heading is not unique in the file
-
-TEXT 2
-
-# Links to the example headings above
-
-Link to the sample section: [Link Text](#sample-section).
-
-Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
-
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
-
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
-
 
 ![Screencastfrom2025-03-3017-27-41-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/8a9e77fa-fe6e-483a-9e23-bbd36fbe75f4)
 
@@ -40,13 +15,10 @@ Firmware
     git clone https://github.com/migit/AI-Autonomous-Room-Rover-Robot-A2R3.git
 
 Software Requirements
-
-    Operating System: Linux or windows Arduino IDE installed ( I recommend working on Linux (Ubuntu) for future navigation and SLAM development system to use 
-    ROS2 or micro ROS) However the bot drives by itself with built-in obstacle avoidance alogorithim through its slave microcontoller that is ESP32. 
-    Programming Language: C++
-Obstacle avoidance system demo
-
-[![Watch the video](https://img.youtube.com/vi/NbiJPMn4Qm0/hqdefault.jpg)](https://youtu.be/NbiJPMn4Qm0?si=QGYEltaEz_qwInCY&t=107)
+> [!TIP]
+> I recommend Operating System: Linux or windows Arduino compatibe IDE installed ( I recommend working on Linux (Ubuntu) for future navigation and SLAM development system.
+> ROS2 or micro ROS for NAV2 development although he robot drives by itself with built-in obstacle avoidance alogorithim through its ESP32 slave microcontoller.
+> Programming Language: C/C++ 
 
 Hardware Requirements - Main drive
 
@@ -55,6 +27,9 @@ Hardware Requirements - Main drive
     
 ![hardware and parts](https://github.com/user-attachments/assets/13497e88-f66b-438f-93a4-5240f2e5cabc)
 
+Obstacle avoidance system demo
+
+[![Watch the video](https://img.youtube.com/vi/NbiJPMn4Qm0/hqdefault.jpg)](https://youtu.be/NbiJPMn4Qm0?si=QGYEltaEz_qwInCY&t=107)
 
 Demonstration                                                                                                                                                        
     <a href="https://youtu.be/E3wDgulsSTU?si=qFQs4_kfr9r9EPV2" target="_blank">Obstacle avoidance system demo</a> <br/>
