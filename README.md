@@ -1,21 +1,18 @@
 Story
 
-In an era where artificial intelligence (AI) and robotics are transforming our daily lives, creating an AI-powered autonomous room rover is an exciting project for any tech enthusiast. I have always wondered how it feels like to build this idea from the ground up alone with limited resources i have available. This rover bot is designed to navigate a room autonomously, avoiding obstacles and responding to voice commands , express emotions and so much more... the sky is the limit.
+In an era where artificial intelligence (AI) and robotics are transforming our daily lives, creating an AI-powered autonomous room rover is an exciting project for any tech enthusiast. I have always wondered how it feels like to build this idea from the ground up alone with limited resources i have available. This rover bot is designed to navigate a room autonomously, avoiding obstacles and responding to voice commands , monitoring any activity in the environment, express emotions and so much more... The sky is the limit!.
 
-Imagine having a companion rover bot who actually knows you by name and serves you tirelessly (well while 🔋 is full :) ). I am designing A2R3 as an open source cost effective diy robotic platform for all who want to customize their own rover bot.
+I am designing A2R3 as an open source cost effective diy mobile robotic platform for all who want to customize their own bot.
 
-This project will guide you through the process of building your own intelligent rover using readily available components and open-source software step by step. I divided this project in three parts for simplicity. You can also find the whole project decscription in my <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">hackster</a> page.
+This project will guide you through the process of building your own intelligent mobile robot using readily available components, very low cost modules, and open-source softwares.
+I have divided this project in three parts for simplicity. You can also find the whole project decscription in my <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">hackster</a> page.
 
 
 ![Screencastfrom2025-03-3017-27-41-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/8a9e77fa-fe6e-483a-9e23-bbd36fbe75f4)
 
+Step1
 
-Objectives
-
-    Autonomous Navigation: Enable the rover to move around a room without human intervention, avoiding obstacles.
-    Voice Control: Incorporate voice recognition to control the rover’s movements.![Screenshot from 2025-03-30 13-17-48](https://github.com/user-attachments/assets/8a4b4a74-97f4-43c7-b711-db44b8575d1e)
-
-    Real-Time Feedback: Implement sensors for real-time data collection and response.
+    git clone this repo
 
 Software Requirements
 
@@ -26,10 +23,10 @@ Obstacle avoidance system demo
 
 [![Watch the video](https://img.youtube.com/vi/NbiJPMn4Qm0/hqdefault.jpg)](https://youtu.be/NbiJPMn4Qm0?si=QGYEltaEz_qwInCY&t=107)
 
-Main drive Hardware Requirements
+Hardware Requirements - Main drive
 
     Plastic foam tires are great for this project and they are lightweight, hard and have a good grip. Relatively less costy.
-    The actuator to drive the rover is plastic agearbox RS390. It drives with a 6V DC motor inside and produce a fair amount of speed with a good torque strong enough to drive the rover with up to 15kg amount of payload. In the future I will do some other scientific tests on this...
+    The actuator to drive the rover is plastic agearbox RS390. It drives with a 6V DC motor inside and produce a fair amount of speed with a good torque strong enough to drive the rover with up to 15kg amount of payload. In the future I will do some other scientific tests on this...Anyways; I have the first build (firmware and hardware) that you can find in my hackster page link down below.
     
 ![hardware and parts](https://github.com/user-attachments/assets/13497e88-f66b-438f-93a4-5240f2e5cabc)
 
@@ -38,6 +35,7 @@ Main drive Hardware Requirements
 Demonstration                                                                                                                                                        
     <a href="https://youtu.be/E3wDgulsSTU?si=qFQs4_kfr9r9EPV2" target="_blank">Obstacle avoidance system demo</a> <br/>
     <a href="https://www.youtube.com/watch?v=NbiJPMn4Qm0" target="_blank">PID control build Demo</a> <br/>
+    <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">hackster</a> page.
 
 ![oshw_facts](https://github.com/user-attachments/assets/8db5b921-7199-43b5-9edd-f96adf9e9eec)
 
