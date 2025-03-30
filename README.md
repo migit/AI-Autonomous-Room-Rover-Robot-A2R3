@@ -7,6 +7,31 @@ I am designing A2R3 as an open source cost effective diy mobile robotic platform
 This project will guide you through the process of building your own intelligent mobile robot using readily available components, very low cost modules, and open-source softwares.
 I have divided this project in three parts for simplicity. You can also find the whole project decscription in my <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">hackster</a> page.
 
+# Example headings
+
+## Sample Section
+
+## This'll be a _Helpful_ Section About the Greek Letter Θ!
+A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
+
+## This heading is not unique in the file
+
+TEXT 1
+
+## This heading is not unique in the file
+
+TEXT 2
+
+# Links to the example headings above
+
+Link to the sample section: [Link Text](#sample-section).
+
+Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
+
+Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
+
+Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+
 
 ![Screencastfrom2025-03-3017-27-41-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/8a9e77fa-fe6e-483a-9e23-bbd36fbe75f4)
 
