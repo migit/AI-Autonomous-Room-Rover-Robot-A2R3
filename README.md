@@ -17,7 +17,7 @@ Firmware
 Software Dev environments:
 > [!TIP]
 > I recommend Operating System: Linux or windows Arduino compatibe IDE installed ( I recommend working on Linux (Ubuntu) for future navigation and SLAM development system.
-> ROS2 or micro ROS for NAV2 development although he robot drives by itself with built-in obstacle avoidance alogorithim through its ESP32 slave microcontoller.
+> ROS2 or micro ROS for NAV2 development although the robot drives by itself with built-in obstacle avoidance alogorithim through its ESP32 slave microcontoller.
 > Programming Language: C/C++ 
 
 Hardware Requirements - Main drive
