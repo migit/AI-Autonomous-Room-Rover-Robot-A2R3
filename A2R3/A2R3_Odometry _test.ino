@@ -1,3 +1,12 @@
+/*
+ * Project: A2R3 - AI Autonomous Room Rover Robot A2R3
+ * Description:    AI mobile robotic base for any other robotic platforms to build upon. With these basic functionalities and creating a learning experience for mobile robotic development.
+ * Author: Michael Seyoum (https://www.hackster.io/mikroller)
+ * Created: March 30, 2025
+ * License: GPL-3.0-only - See LICENSE file for details
+ * Repository: https://github.com/migit/AI-Autonomous-Room-Rover-Robot-A2R3/
+ */
+
 #include <Wire.h>
 #define AS5600_ADDR 0x36           // I2C address for AS5600
 #define TCA9548A_ADDR 0x70         // I2C address for TCA9548A
