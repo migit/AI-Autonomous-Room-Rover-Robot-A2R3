@@ -8,7 +8,8 @@ This project will guide you through the process of building your own intelligent
 I have divided this project in three parts for simplicity. You can also find the whole project decscription in my <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">hackster</a> page.
 
 
-![Screencastfrom2025-03-3017-27-41-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/8a9e77fa-fe6e-483a-9e23-bbd36fbe75f4)
+![output-onlinegiftools-ezgif com-resize](https://github.com/user-attachments/assets/bbc6c5a3-ab26-46e3-b967-9705cc1c35a4)
+
 
 Firmware
 
