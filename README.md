@@ -7,9 +7,9 @@ I am designing A2R3 as an open source cost effective diy mobile robotic platform
 This project will guide you through the process of building your own intelligent mobile robot using readily available components, very low cost modules, and open-source softwares.
 I have divided this project in three parts for simplicity. You can also find the whole project decscription in my <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">hackster</a> page.
 
-
+<p align="center">
 ![output-onlinegiftools-ezgif com-resize](https://github.com/user-attachments/assets/bbc6c5a3-ab26-46e3-b967-9705cc1c35a4)
-
+</p>
 
 Firmware
 
