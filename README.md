@@ -8,7 +8,7 @@ This project will guide you through the process of building your own intelligent
 I have divided this project in three parts for simplicity. You can also find the whole project decscription in my <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">hackster</a> page.
 
 <p align="center">
-    <img width="460" height="300" src="https://github.com/user-attachments/assets/bbc6c5a3-ab26-46e3-b967-9705cc1c35a4">
+    <img  src="https://github.com/user-attachments/assets/bbc6c5a3-ab26-46e3-b967-9705cc1c35a4">
 </p>
 
 Firmware
@@ -34,7 +34,7 @@ Here are useful and important links for your guidance:
 
     
 This open source project has been officially certified as open source hardware by the Open Source Hardware Association under the project listing: https://certification.oshwa.org/fi000003.html [^2].
-software and hardware License: [^1]
+software and hardware Licenses: [^1]
 
 [^1]: ![oshw_facts](https://github.com/user-attachments/assets/8db5b921-7199-43b5-9edd-f96adf9e9eec)
 [^2]: ![Screenshot from 2025-03-30 15-58-53](https://github.com/user-attachments/assets/599f7daa-bc83-4e1d-ba89-f66ca4a2cc97)
