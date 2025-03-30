@@ -21,21 +21,20 @@ Software Dev environments:
 > ROS2 or micro ROS for NAV2 development although the robot drives by itself with built-in obstacle avoidance alogorithim through its ESP32 slave microcontoller.
 > Programming Language: C/C++ 
 
-Hardware Requirements - Main drive
+Hardware Requirements - Main drive:
 > [!TIP]
 > Plastic foam tires are great for this project and they are lightweight, hard and have a good grip. Relatively less costy.
 > The actuator to drive the rover is plastic agearbox RS390. It drives with a 6V DC motor inside and produce a fair amount of speed with a good torque strong enough to drive the rover with up to 15kg amount of payload. In the future I will do some other scientific tests on this...Anyways; I have the first build (firmware and hardware) that you can find the BOM in my hackster page link down below.
-    
 
-
-Demonstration                                                                                                                                                        
+Here are useful and important links for your guidance:      
+> [!IMPORTANT]                                                                                                                                                   
     <a href="https://youtu.be/E3wDgulsSTU?si=qFQs4_kfr9r9EPV2" target="_blank">Obstacle avoidance system demo</a> <br/>
     <a href="https://www.youtube.com/watch?v=NbiJPMn4Qm0" target="_blank">PID control build Demo</a> <br/>
     <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">hackster</a> page.
 
     
-This open source project has been officially certified as open source hardware by the Open Source Hardware Association under the project listing: https://certification.oshwa.org/fi000003.html [^1].
-[^2]
+This open source project has been officially certified as open source hardware by the Open Source Hardware Association under the project listing: https://certification.oshwa.org/fi000003.html [^2].
+software and hardware License: [^1]
 
 [^1]: ![oshw_facts](https://github.com/user-attachments/assets/8db5b921-7199-43b5-9edd-f96adf9e9eec)
 [^2]: ![Screenshot from 2025-03-30 15-58-53](https://github.com/user-attachments/assets/599f7daa-bc83-4e1d-ba89-f66ca4a2cc97)
