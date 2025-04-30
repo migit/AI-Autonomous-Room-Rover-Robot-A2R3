@@ -11,6 +11,10 @@ I have divided this project in three parts for simplicity. You can also find the
     <img  src="https://github.com/user-attachments/assets/bbc6c5a3-ab26-46e3-b967-9705cc1c35a4">
 </p>
 
+Roadmap
+
+The basic functionality of the Robot is completed.Any firmware in the A2R3 directory works and tested carefully.ROS2 integration with visualization (Rviz) has been integrated and you can find it in the ROS2_playgrounds directory. Step by step documentation is underconstruction and your pateince is vital as I am working alone in this project and writing documentation is no fun task. Micro-ROS integration is next up and I am excited to make any SBCs market obselete in this kind of project. A contribution and sponsorship of any kind is most welcome! 
+
 Firmware
 
     git clone https://github.com/migit/AI-Autonomous-Room-Rover-Robot-A2R3.git
