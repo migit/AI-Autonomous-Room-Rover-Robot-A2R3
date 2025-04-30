@@ -1,0 +1,54 @@
+Visualization Manager:
+  Class: ""
+  Displays:
+    - Class: rviz_common/RobotModel
+      Alpha: 1
+      Enabled: true
+      Name: RobotModel
+      Robot Description: robot_description
+      Visual Enabled: true
+      Collision Enabled: false
+    - Class: rviz_common/Range
+      Alpha: 1
+      Buffer Length: 1
+      Color: 255; 0; 0
+      Enabled: true
+      Max Range: 4
+      Min Range: 0.02
+      Name: Range
+      Topic: /range
+      Value: true
+    - Class: rviz_common/Imu
+      Alpha: 1
+      Enabled: true
+      Name: Imu
+      Size: 0.5
+      Topic: /imu
+      Buffer Size: 10
+    - Class: rviz_common/Odometry
+      Alpha: 1
+      Arrows: true
+      Color: 255; 255; 0
+      Enabled: true
+      Length: 0.3
+      Name: Odometry
+      Topic: /odom
+      Keep: 100
+    - Class: rviz_common/TF
+      Alpha: 1
+      Enabled: true
+      Name: TF
+      Show Arrows: true
+      Show Axes: true
+      Show Names: true
+  Enabled: true
+  Global Options:
+    Fixed Frame: odom
+  Tools:
+    - Class: rviz_default_plugins/MoveCamera
+  Views:
+    Current View:
+      Distance: 2
+      Pitch: 0.4
+      Yaw: 0
+      Type: TopDownOrtho
