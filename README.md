@@ -1,4 +1,4 @@
-Story
+### Story
 
 In an era where artificial intelligence (AI) and robotics are transforming our daily lives, creating an AI-powered autonomous room rover is an exciting project for any tech enthusiast. I have always wondered how it feels like to build this idea from the ground up alone with limited resources I have available. I have designed tgis mobile robot to navigate a room autonomously, avoiding obstacles and responding to voice commands , monitoring any activity in the environment, express emotions and so much more... The sky is the limit! Well in this case the AI brain is the limit.
 
@@ -11,26 +11,26 @@ I have divided this project in three parts for simplicity. You can also find the
     <img  src="https://github.com/user-attachments/assets/bbc6c5a3-ab26-46e3-b967-9705cc1c35a4">
 </p>
 
-Roadmap
+### Roadmap
 
 The basic functionality of the Robot is completed.Any firmware in the A2R3 directory works and tested carefully.ROS2 integration with visualization (Rviz) has been integrated and you can find it in the ROS2_playgrounds directory. Step by step documentation is underconstruction and your pateince is vital as I am working alone in this project and writing documentation is no fun task. Micro-ROS integration is next up and I am excited to make any SBCs market obselete in this kind of project. A contribution and sponsorship of any kind is most welcome! 
 
-Firmware
+### Firmwares
 
     git clone https://github.com/migit/AI-Autonomous-Room-Rover-Robot-A2R3.git
 
-Software Dev environments:
+### Softwares and Dev environments:
 > [!TIP]
 > Recommended Operating System: Linux or windows Arduino compatibe IDE installed ( I recommend working on Linux (Ubuntu) for future navigation and SLAM development systems.
 > <a href="https://docs.ros.org/en/foxy/index.html" target="_blank"> ROS2 </a> or <a href="https://micro.ros.org/" target="_blank"> Micro ROS </a> for <a href="https://docs.nav2.org/" target="_blank"> Nav2 </a>development although the robot drives by itself with built-in firmware obstacle avoidance alogorithim I wrote through its slave microcontoller <a href="https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/index.html" target="_blank"> ESP32. </a>
 > Programming Language: C/C++ 
 
-Hardware Requirements - Main drive:
+### Hardware and CAD design - Main drive:
 > [!TIP]
 > Plastic foam tires are great for this project and they are lightweight, hard and have a good grip. Relatively less costy.
 > The actuator to drive the rover is plastic agearbox RS390. It drives with a 6V DC motor inside (they are upto 10v tolerant) and produce a fair amount of speed with a good torque strong enough to drive the rover with up to 15kg amount of payload. In the future I will do some other scientific tests on this...Anyways; I have the first build (firmware and hardware) that you can find the BOM in my hackster page link down below.
 
-Here are useful and important links for your guidance:      
+### Here are useful and important links for your guidance:      
 > [!IMPORTANT]                                                                                                                                                   
     <a href="https://www.youtube.com/watch?v=NbiJPMn4Qm0" target="_blank">PID control build Demo Video</a> <br/>
     <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">Documentation</a> page.
