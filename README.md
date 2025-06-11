@@ -24,8 +24,7 @@ The core functionality of the A2R3 robot is complete, with all firmware in the A
 
 ### Hardware and CAD design - Main drive:
 > [!TIP]
-> Plastic foam tires are great for this project and they are lightweight, hard and have a good grip. Relatively less costy.
-> The actuator to drive the rover is plastic agearbox RS390. It drives with a 6V DC motor inside (they are upto 10v tolerant) and produce a fair amount of speed with a good torque strong enough to drive the rover with up to 15kg amount of payload. In the future I will do some other scientific tests on this...Anyways; I have the first build (firmware and hardware) that you can find the BOM in my hackster page link down below.
+> Plastic foam tires are ideal for the A2R3 rover, offering a lightweight, durable design with excellent grip at a relatively low cost. The rover is powered by a plastic gearbox RS390 actuator, driven by a 6V DC motor (tolerant up to 10V), delivering impressive speed and sufficient torque to handle payloads of up to 15kg. In the future, I plan to conduct additional scientific tests to optimize performance. For now, the first build, including firmware and hardware, is complete, and you can find the Bill of Materials (BOM) on my Hackster page linked below.
 
 ### Here are useful and important links for your guidance:      
 > [!IMPORTANT]                                                                                                                                                   
