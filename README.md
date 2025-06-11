@@ -1,11 +1,8 @@
 ### Story
 
-In an era where artificial intelligence (AI) and robotics are transforming our daily lives, creating an AI-powered autonomous room rover is an exciting project for any tech enthusiast. I have always wondered how it feels like to build this idea from the ground up alone with limited resources I have available. I have designed tgis mobile robot to navigate a room autonomously, avoiding obstacles and responding to voice commands , monitoring any activity in the environment, express emotions and so much more... The sky is the limit! Well in this case the AI brain is the limit.
+In an era where artificial intelligence (AI) and robotics are revolutionizing daily life, building an AI-powered autonomous room rover is a thrilling project for tech enthusiasts. I’ve always been curious about creating such a robot from scratch, using only the limited resources at my disposal. My vision is to design A2R3, a mobile robot that navigates rooms autonomously, avoids obstacles, responds to voice commands, monitors its environment, and even expresses emotions. The possibilities are endless—limited only by the AI "brain" we give it!
 
-I am designing A2R3 as an open source cost effective diy mobile robotic platform for anybody whishes to customize and learn robotics with a "do it yourself in mind".
-
-This project will guide you through the process of building your own intelligent mobile robot using readily available components, very low cost modules, and open-source softwares.
-I have divided this project in three parts for simplicity. You can also find the whole project decscription in my <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">hackster</a> page.
+A2R3 is an open-source, cost-effective, DIY mobile robotic platform designed for anyone eager to customize and dive into robotics with a hands-on approach. This project guides you through building your own intelligent robot using affordable, readily available components and open-source software. For simplicity, I’ve broken the project into three parts. You can find the complete project description on my <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">Hackster </a> page.
 
 <p align="center">
     <img  src="https://github.com/user-attachments/assets/bbc6c5a3-ab26-46e3-b967-9705cc1c35a4">
