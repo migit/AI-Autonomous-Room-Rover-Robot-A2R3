@@ -1,7 +1,7 @@
 <p align="center">
 
+![Screencastfrom2025-09-1222-05-38-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4e16f9fb-fdc3-4740-8bdf-1cd2c2d42b24)
 
-![Screencastfrom2025-09-1221-55-03-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1cd1eb70-b1d1-41f7-b69a-02cb297ca12e)
 
 </p>
 
