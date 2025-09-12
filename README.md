@@ -5,9 +5,12 @@ In an era where artificial intelligence (AI) and robotics are revolutionizing da
 A2R3 is an open-source, cost-effective, DIY mobile robotic platform designed for anyone eager to customize and dive into robotics with a hands-on approach. This project guides you through building your own intelligent robot using affordable, readily available components and open-source software. For simplicity, I’ve broken the project into three parts. You can find the complete project description on my <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">Hackster </a> page.
 
 <p align="center">
-    <img  src="https://github.com/user-attachments/assets/bbc6c5a3-ab26-46e3-b967-9705cc1c35a4">
-</p>
+    
 
+
+<img width="929" height="669" alt="Screenshot from 2025-09-12 21-47-57" src="https://github.com/user-attachments/assets/36c78a3c-8048-45e1-9b0c-1c5b9d2ad642" />
+
+</p>
 ### Roadmap
 
 The core functionality of the A2R3 robot is complete, with all firmware in the A2R3 directory thoroughly tested and fully operational. ROS2 integration, including visualization with RViz, is implemented and available in the ROS2_playgrounds directory. Step-by-step documentation is currently in progress, and I appreciate your patience as I tackle this solo project—writing documentation isn’t exactly thrilling! Next up is Micro-ROS integration, which I’m excited about, as it aims to make single-board computers (SBCs) obsolete for projects like this. Contributions or sponsorships of any kind are greatly appreciated to help drive this project forward!
