@@ -1,5 +1,5 @@
 <p align="center">
-<img width="929" height="669" alt="Screenshot from 2025-09-12 21-47-57" src="https://github.com/user-attachments/assets/36c78a3c-8048-45e1-9b0c-1c5b9d2ad642" />
+![Screencastfrom2025-09-1221-55-03-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bb448f56-8ea3-4998-9ec8-d200fb381139)
 </p>
 
 ### Story
