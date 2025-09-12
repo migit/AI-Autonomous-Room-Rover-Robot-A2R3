@@ -1,5 +1,8 @@
 <p align="center">
-![Screencastfrom2025-09-1221-55-03-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bb448f56-8ea3-4998-9ec8-d200fb381139)
+
+
+![Screencastfrom2025-09-1221-55-03-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1cd1eb70-b1d1-41f7-b69a-02cb297ca12e)
+
 </p>
 
 ### Story
