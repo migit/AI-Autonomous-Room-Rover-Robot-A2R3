@@ -48,6 +48,7 @@ The core functionality of the A2R3 robot is complete, with all firmware in the A
 ### Firmware
 
     git clone https://github.com/migit/AI-Autonomous-Room-Rover-Robot-A2R3.git
+    cd AI-Autonomous-Room-Rover-Robot-A2R3
 
 ### Softwares and Dev environments:
 > [!NOTE]
