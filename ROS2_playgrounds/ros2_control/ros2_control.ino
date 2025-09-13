@@ -34,8 +34,8 @@
 #define HIGH_SPEED 180
 #define PWM_FREQUENCY 18000
 #define PWM_RESOLUTION 8
-#define WHEEL_DIAMETER 20.0
-#define WHEEL_BASE 40.0
+#define WHEEL_DIAMETER 20.0 // Set your wheel diameter here
+#define WHEEL_BASE 40.0 
 #define ENCODER_RESOLUTION 4096
 #define WHEEL_CIRCUMFERENCE (PI * WHEEL_DIAMETER)
 const int offsetA = -1;
@@ -47,7 +47,7 @@ const int offsetB = 1;
 #define OLED_UPDATE_INTERVAL 500 // ms
 
 // Wi-Fi
-const char* ssid = "holy spot";
+const char* ssid = "holy spot"; // use your local wifi username and password 
 const char* password = "12345678";
 WiFiServer server(80);
 
