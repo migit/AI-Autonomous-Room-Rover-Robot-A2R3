@@ -5,25 +5,56 @@
 
 </p>
 
-### Story
+### Inspiration
 
-In an era where artificial intelligence (AI) and robotics are revolutionizing daily life, building an AI-powered autonomous room rover is a thrilling project for tech enthusiasts. I’ve always been curious about creating such a robot from scratch, using only the limited resources at my disposal. My vision is to design A2R3, a mobile robot that navigates rooms autonomously, avoids obstacles, responds to voice commands, monitors its environment, and even expresses emotions. The possibilities are endless—limited only by the AI "brain" we give it!
+A2R3 is a modular open-source mobile robot built on the ESP32.
+Think of it as a hacker’s playground for robotics — Wi-Fi, Bluetooth, LiDAR, IMU, odometry, OLED + buzzer feedback, and full autonomy potential.
 
 A2R3 is an open-source, cost-effective, DIY mobile robotic platform designed for anyone eager to customize and dive into robotics with a hands-on approach. This project guides you through building your own intelligent robot using affordable, readily available components and open-source software. For simplicity, I’ve broken the project into three parts. You can find the complete project description on my <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">Hackster </a> page.
+
+### Features
+- [✓] ESP32 Core — Wi-Fi + Bluetooth ready
+- [✓] Modular Sensor System — I²C bus for expansions
+- [✓] Obstacle Avoidance — VL53L0X laser distance
+- [✓] Motion Control — TB6612 / TMC2209 drivers
+- [✓] Odometry — AS5600 encoders
+- [✓] Feedback — SSD1306 OLED + buzzer
+- [✓] Cooling — PWM fan control
+- [-] SLAM + ROS2 integration (coming soon...)
+- [-] AI-driven behaviors (future module)
+
 
 ### Roadmap
 
 The core functionality of the A2R3 robot is complete, with all firmware in the A2R3 directory thoroughly tested and fully operational. ROS2 integration, including visualization with RViz, is implemented and available in the ROS2_playgrounds directory. Step-by-step documentation is currently in progress, and I appreciate your patience as I tackle this solo project—writing documentation isn’t exactly thrilling! Next up is Micro-ROS integration, which I’m excited about, as it aims to make single-board computers (SBCs) obsolete for projects like this. Contributions or sponsorships of any kind are greatly appreciated to help drive this project forward!
+ Core drive + obstacle avoidance
 
-### Firmwares
+ - [✓] Remote control via PS3 pad
+
+ - [-] ROS2 + SLAM integration
+
+ - [✓] Web Dashboard + Telemetry
+
+ - [✓] Autonomous mission logic
+
+### Hardware
+
+- Brain: ESP32-WROOM / ESP32-S3 (slave micro-controller), SLAM : Orange Pi 3B (cheaper) Raspbery Pi or any other SBC.
+- Muscle: TB6612 / TMC2209 motor drivers
+- Senses: MPU6050 (IMU), VL53L0X (ToF), AS5600 (encoders)
+- Face: SSD1306 OLED + status LEDs
+- Core Power: 20V Li-ion → 5V / 3.3V regulation for a full BOM go <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">here </a>
+
+### Firmware
 
     git clone https://github.com/migit/AI-Autonomous-Room-Rover-Robot-A2R3.git
 
 ### Softwares and Dev environments:
-> [!TIP]
-> Recommended Operating System: Linux (Ubuntu preferred for navigation and SLAM development) or Windows with Arduino-compatible IDE.
-Software: <a href="https://docs.ros.org/en/foxy/index.html" target="_blank"> ROS2 </a> or <a href="https://micro.ros.org/" target="_blank">Micro-ROS </a> for <a href="https://docs.nav2.org/" target="_blank"> Nav2 </a>development. The robot autonomously navigates using a custom obstacle-avoidance algorithm on its <a href="https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/index.html" target="_blank">ESP32 </a>slave microcontroller.
-Programming Language: C/C++
+> [!NOTE]
+> - Recommended Operating System: Linux (Ubuntu preferred for navigation and SLAM development) or Windows with Arduino-compatible IDE.
+>- Software: <a href="https://docs.ros.org/en/foxy/index.html" target="_blank"> ROS2 </a> or <a href="https://micro.ros.org/" target="_blank">Micro-ROS </a> for <a href="https://docs.nav2.org/" target="_blank"> Nav2 </a>development.
+>- The robot autonomously navigates using a custom obstacle-avoidance algorithm on its <a href="https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/index.html" target="_blank">ESP32 </a>slave microcontroller.
+>- Programming Language: C/C++
 
 ### Hardware and CAD design - Main drive:
 > [!TIP]
@@ -35,7 +66,7 @@ Programming Language: C/C++
     <a href="https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5" target="_blank">Documentation</a> page.
 
     
-This open source project has been officially certified as open source hardware by the Open Source Hardware Association under the project listing: https://certification.oshwa.org/fi000003.html [^2].
+This open source project has been officially certified as open source hardware by the Open Source Hardware Association under the project <a href="https://certification.oshwa.org/fi000003.html">listing </a>: [^2].
 software and hardware Licenses: [^1]
 
 [^1]: ![oshw_facts](https://github.com/user-attachments/assets/8db5b921-7199-43b5-9edd-f96adf9e9eec)
