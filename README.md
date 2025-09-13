@@ -5,7 +5,7 @@
 
 </p>
 
-### Inspiration
+### Introduction
 
 A2R3 is a modular open-source mobile robot built on the ESP32.
 Think of it as a hacker’s playground for robotics — Wi-Fi, Bluetooth, LiDAR, IMU, odometry, OLED + buzzer feedback, and full autonomy potential.
