@@ -54,7 +54,7 @@ The core functionality of the A2R3 robot is complete, with all firmware in the A
 > - Recommended Operating System: Linux (Ubuntu preferred for navigation and SLAM development) or Windows with Arduino-compatible IDE.
 >- Software: <a href="https://docs.ros.org/en/foxy/index.html" target="_blank"> ROS2 </a> or <a href="https://micro.ros.org/" target="_blank">Micro-ROS </a> for <a href="https://docs.nav2.org/" target="_blank"> Nav2 </a>development.
 >- The robot autonomously navigates using a custom obstacle-avoidance algorithm on its <a href="https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/index.html" target="_blank">ESP32 </a>slave microcontroller.
->- Programming Language: C/C++
+>- Programming Language: C++/Python
 
 ### Hardware and CAD design - Main drive:
 > [!TIP]
