@@ -28,14 +28,12 @@ A2R3 is an open-source, cost-effective, DIY mobile robotic platform designed for
 
 The core functionality of the A2R3 robot is complete, with all firmware in the A2R3 directory thoroughly tested and fully operational. ROS2 integration, including visualization with RViz, is implemented and available in the ROS2_playgrounds directory. Step-by-step documentation is currently in progress, and I appreciate your patience as I tackle this solo project—writing documentation isn’t exactly thrilling! Next up is Micro-ROS integration, which I’m excited about, as it aims to make single-board computers (SBCs) obsolete for projects like this. Contributions or sponsorships of any kind are greatly appreciated to help drive this project forward!
  Core drive + obstacle avoidance
-
- - [✓] Remote control via PS3 pad
-
- - [-] ROS2 + SLAM integration
-
- - [✓] Web Dashboard + Telemetry
-
+ 
  - [✓] Autonomous mission logic
+ - [✓] Remote control via PS3 pad
+ - [-] ROS2 + SLAM integration
+ - [-] Web Dashboard + Telemetry (check out the beta version 1.1.0 <a href="https://a2r3.42web.io/"> here</a>)
+
 
 ### Hardware
 
