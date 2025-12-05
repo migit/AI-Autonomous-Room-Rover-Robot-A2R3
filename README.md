@@ -97,6 +97,3 @@ cd AI-Autonomous-Room-Rover-Robot-A2R3
 
 This project is certified as **Open Source Hardware (OSHW)** and uses open-source software licenses. Refer to the Hackster page and OSHW listing for details.
 
----
-
-**Happy Hacking!**
