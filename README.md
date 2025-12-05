@@ -4,9 +4,8 @@
 [![Languages: C++ | Python](https://img.shields.io/badge/languages-C%2B%2B%20%7C%20Python-blue.svg)](#tech-stack)
 [![GitHub repo size](https://img.shields.io/github/repo-size/migit/AI-Autonomous-Room-Rover-Robot-A2R3)](#)
 
-<p align="center">
+
 ![A2R3 Robot Demo](https://github.com/user-attachments/assets/846c617b-8a6f-4b1c-bb5e-ec2b91144fe9)
-</p>
 
 ---
 
