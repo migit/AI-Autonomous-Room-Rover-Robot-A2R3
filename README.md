@@ -88,11 +88,11 @@ cd AI-Autonomous-Room-Rover-Robot-A2R3
 * [Full Documentation](https://www.hackster.io/mikroller/ai-autonomous-room-rover-robot-a2r3-part-2-48f5a5)
 * [OSHW Certification](https://certification.oshwa.org/fi000003.html)
 
-![OSHW Certified](https://github.com/user-attachments/assets/599f7daa-bc83-4e1d-ba89-f66ca4a2cc97)
+![OSHWA Certified](https://github.com/user-attachments/assets/599f7daa-bc83-4e1d-ba89-f66ca4a2cc97)
 
 ---
 
 ## License
 
-This project is certified as **Open Source Hardware (OSHW)** and uses open-source software licenses. Refer to the Hackster page and OSHW listing for details.
+This project is certified as **Open Source Hardware (OSHW)** and uses open-source software licenses. Refer to the Hackster page and OSHWA listing for details.
 
