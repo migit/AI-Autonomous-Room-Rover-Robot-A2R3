@@ -1,4 +1,5 @@
 # A2R3 — Modular Open-Source Mobile Robot
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=migit.AI-Autonomous-Room-Rover-Robot-A2R3)
 
 [![License: OSHW](https://github.com/user-attachments/assets/8db5b921-7199-43b5-9edd-f96adf9e9eec)](#license)
 [![Languages: C++ | Python](https://img.shields.io/badge/languages-C%2B%2B%20%7C%20Python-blue.svg)](#tech-stack)
