@@ -56,7 +56,7 @@ const int offsetB = 1;
 #define OLED_UPDATE_INTERVAL 500 // ms
 
 // Wi-Fi
-const char* ssid = "holy spot";
+const char* ssid = "holy spot"; // I hope you are going to change this to your wifi credentials :)
 const char* password = "12345678";
 WiFiServer server(80);
 
