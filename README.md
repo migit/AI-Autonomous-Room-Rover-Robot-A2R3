@@ -1,7 +1,7 @@
 # A2R3 — Modular Open-Source Mobile Robot
 
 
-[![License: OSHW](https://github.com/user-attachments/assets/8db5b921-7199-43b5-9edd-f96adf9e9eec)](#license)
+[![License: OSHWA](https://github.com/user-attachments/assets/8db5b921-7199-43b5-9edd-f96adf9e9eec)](#license)
 [![Languages: C++ | Python](https://img.shields.io/badge/languages-C%2B%2B%20%7C%20Python-blue.svg)](#tech-stack)
 [![GitHub repo size](https://img.shields.io/github/repo-size/migit/AI-Autonomous-Room-Rover-Robot-A2R3)](#)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=migit.AI-Autonomous-Room-Rover-Robot-A2R3)
@@ -95,5 +95,5 @@ cd AI-Autonomous-Room-Rover-Robot-A2R3
 
 ## License
 
-This project is certified as **Open Source Hardware (OSHW)** and uses open-source software licenses. Refer to the Hackster page and OSHWA listing for details.
+This project is certified as **Open Source Hardware Association (OSHWA)** and uses open-source software licenses. Refer to the Hackster page and OSHWA listing for details.
 
