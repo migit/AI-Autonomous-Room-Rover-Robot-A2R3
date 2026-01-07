@@ -2,10 +2,11 @@
 
 
 [![License: OSHWA](https://github.com/user-attachments/assets/8db5b921-7199-43b5-9edd-f96adf9e9eec)](#license)
+![Open Hardware](https://img.shields.io/badge/hardware-open--source-brightgreen)
 [![Languages: C++ | Python](https://img.shields.io/badge/languages-C%2B%2B%20%7C%20Python-blue.svg)](#tech-stack)
 [![GitHub repo size](https://img.shields.io/github/repo-size/migit/AI-Autonomous-Room-Rover-Robot-A2R3)](#)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=migit.AI-Autonomous-Room-Rover-Robot-A2R3)
-![Open Hardware](https://img.shields.io/badge/hardware-open--source-brightgreen)
+
 ![A2R3 Robot Demo](https://github.com/user-attachments/assets/846c617b-8a6f-4b1c-bb5e-ec2b91144fe9)
 
 ---
