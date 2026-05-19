@@ -1,4 +1,4 @@
-# A2R3 — Modular Open-Source Mobile Robot
+# A2R3: Modular Open-Source Mobile Robot
 
 ![Open Hardware](https://img.shields.io/badge/hardware-open--source-brightgreen)
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)
