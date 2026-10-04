@@ -1,3 +1,4 @@
+
 # A2R3: Modular Open-Source Mobile Robot
 
 ![Open Hardware](https://img.shields.io/badge/hardware-open--source-brightgreen)
@@ -6,8 +7,12 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/migit/AI-Autonomous-Room-Rover-Robot-A2R3)](#)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=migit.AI-Autonomous-Room-Rover-Robot-A2R3)
 
-![A2R3 Robot Demo](https://github.com/user-attachments/assets/846c617b-8a6f-4b1c-bb5e-ec2b91144fe9)
+<!--- ![A2R3 Robot Demo](https://github.com/user-attachments/assets/846c617b-8a6f-4b1c-bb5e-ec2b91144fe9)  --->
+
 [![License: OSHWA](https://github.com/user-attachments/assets/8db5b921-7199-43b5-9edd-f96adf9e9eec)](#license)
+
+
+<img width="1360" height="736" alt="Two-Wheeled Differential Drive Robot Blueprint-edited" src="https://github.com/user-attachments/assets/3acd1276-05d8-4f9e-9681-0076d7c73d16" />
 
 ---
 
