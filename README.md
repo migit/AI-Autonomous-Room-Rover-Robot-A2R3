@@ -47,7 +47,7 @@ The core firmware in the `A2R3` directory is fully operational. ROS2 integration
 * Autonomous mission logic
 * Remote control via PS3 pad
 * ROS2 + SLAM integration (planned)
-* Web Dashboard + Telemetry (beta v1.1.0 [here](https://a2r3.42web.io/))
+* Web Dashboard + Telemetry (v.2.0 [here](https://a2r3.42web.io/))
 
 ---
 
